@@ -39,3 +39,13 @@
 .Trashes
 ehthumbs.db
 Thumbs.db
+
+# Hidden pages
+.index-animated-countdown.html
+.index-animated.html
+.index-fullpage-countdown.html
+.index-fullpage.html
+.index-multi-scroll.html
+.index-normal-scroll-countdown.html
+.index-normal-scroll.html
+subscription-list.txt
