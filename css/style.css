@@ -111,7 +111,8 @@ table {
 }
 #loading:after {
   content: '';
-  background: url(../img/overlay.svg);
+  background: url(../new/13svg.svg);
+  /* background: url(../img/overlay.svg); */
   background-size: cover;
   background-position: center center;
   position: absolute;
