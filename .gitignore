@@ -1,6 +1,7 @@
 # Default Folders & Files #
 ###########################
 .*
+!/.gitignore
 
 # Compiled source #
 ###################
